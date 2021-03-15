@@ -9,3 +9,7 @@
   - 🎊 Seems like you're looking for someone like me? Let's get in touch!
   - ✉️ You can contact me via [email](mailto:adi.bamberger@gmail.com), [whatsapp](https://api.whatsapp.com/send/?phone=972533038014&text&app_absent=0), [linkedin](https://www.linkedin.com/in/adi-bamberger-edri-0b5a561aa/) or
   phone: [053-3038014](tel:0533038014)
+
+#### Want to see one of my project?
+It is right here👉🏽
+[<img src="https://img.youtube.com/vi/Tru7kuL4CqI/maxresdefault.jpg" width="50%">](https://youtu.be/Tru7kuL4CqI)
